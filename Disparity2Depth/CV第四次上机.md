@@ -1,6 +1,6 @@
-# CV第四次上机——利用双目图像计算深度
+# 利用双目图像计算深度
 
-<center><font face="微软雅黑"><font size="4">19030100075 唐子辰</font></font></center>
+<center><font face="微软雅黑"><font size="4">By Polaris_T</font></font></center>
 
 ## 一、实验目的：
 
