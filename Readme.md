@@ -1,1 +1,1 @@
-Some little projects about computer vision.
+西电计科计算机视觉课程上机作业，供参考。
